@@ -1,2 +1,2 @@
 # isarinio-bayesclassifier
-naive bayes classifier implementation
+Naive Bayes classifier
